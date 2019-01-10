@@ -5,6 +5,7 @@ from __future__ import absolute_import, division, print_function, unicode_litera
 import sys
 from os.path import abspath
 
+# something I would like to learn
 sys.path.append(abspath('.'))
 
 import keras.backend as k
